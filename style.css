@@ -1,0 +1,31 @@
+body {
+  background-color: #f3e8ff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #6b21a8;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.info {
+  text-align: center;
+  padding: 30px;
+  color: #3b0764;
+}
+
+.picture {
+  text-align: center;
+  background-color: #d8b4fe;
+  padding: 30px;
+}
+
+footer {
+  background-color: #6b21a8;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
